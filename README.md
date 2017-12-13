@@ -10,6 +10,8 @@
 
 * Alterar macro conforme Zabbix Anterior.
 
+* # apt-get install snmp
+
 * # apt-get install snmp-mibs-downloader
 
 * # service zabbix-server restart
